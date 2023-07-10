@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación web interactiva pa
 
 - Operaciones CRUD completas (Crear, Leer, Actualizar, Eliminar) para gestionar una colección de datos.
 - Comunicación en tiempo real utilizando WebSockets para mantener sincronizados los cambios entre los clientes conectados.
-- Interfaz de usuario intuitiva y receptiva para una experiencia de usuario fluida.
+
 
 ## Autor
 
